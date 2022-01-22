@@ -16,3 +16,4 @@ Repo link: https://github.com/charan2004153/RDP_Windows2019
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 
+"# rdp" 
